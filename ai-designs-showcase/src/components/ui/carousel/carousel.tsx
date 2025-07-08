@@ -221,5 +221,3 @@ export {
   CarouselItem,
   CarouselDotNav,
 };
-
-export { Carousel, CarouselContent, CarouselDotNav, CarouselItem }
